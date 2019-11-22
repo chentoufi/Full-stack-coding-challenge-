@@ -17,6 +17,6 @@ costumer Part consists of two Parties:
 the first part containing the two layers of the server part:
 - the business layer containing the computer component class.
 - the second RMI layer containing only the interface.
-the second part containing the servlet class for the purpose of managing the client view.
+the second part containing the servlet class for the purpose of managing the costumer view.
 
 
