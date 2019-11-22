@@ -19,4 +19,4 @@ the first part containing the two layers of the server part:
 - the second RMI layer containing only the interface.
 the second part containing the servlet class for the purpose of managing the costumer view.
 
-
+in this project we use jdk 1.8.*,and an apache-tomcat 9 web server.
