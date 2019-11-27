@@ -19,7 +19,8 @@ the first part containing the two layers of the server part:
 - the second RMI layer containing only the interface.
 the second part containing the servlet class for the purpose of managing the costumer view.
 
- Requeirement:
+ Requirement:
+ 
  in this project we use jdk 1.8.*,and an apache-tomcat 9 web server.
 - first you must run Server part "main method".
 - then run the servlet class costumer part.
